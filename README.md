@@ -12,7 +12,7 @@ Also published on [Mybridge Publication](https://medium.mybridge.co)
 
 ## Monthly Series for Open Source:
 
-* [v.Feb 2018 - Top 10 Open Source Projects](src/v-Feb-2018.md)
+* [v.Feb 2018 - Top 10 Open Source Projects](https://github.com/Mybridge/python-open-source/blob/master/src/v.Feb-2018.md)
 * v.Mar 2018 - Top 10 Open Source Projects -- Coming Soon
 
 

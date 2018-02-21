@@ -14,7 +14,7 @@ Open source projects can be useful for programmers. Hope you find an interesting
 
 ### Course of the month:
 
-A) Beginner: [Learn Machine Learning and TensorFlow in Python with Real-Life Business Cases.](http://bit.ly/2Ht3sOr) _[2,128 recommends, 4.8/5 stars]_
+A) Beginner: [Complete Python Bootcamp: Go from zero to hero in Python 3.](http://bit.ly/2sK337a) _[245,696 recommends, 4.5/5 stars]_
 
 <br>
 

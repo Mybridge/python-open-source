@@ -19,4 +19,4 @@ Also published on [Mybridge Publication](https://medium.mybridge.co)
 <br>
 
 ### Monthly Series for Article:
-* [Python Top 10 Articles v.Feb 2018](https://github.com/Mybridge/python-articles)
+* [Python Top 10 Articles](https://github.com/Mybridge/python-articles)

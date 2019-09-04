@@ -28,8 +28,9 @@ Also published on [Mybridge Publication](https://medium.mybridge.co)
 <br>
 <b><2019></b>
   
-* [v.May 2019 - Top 10 Open Source Projects](./src/05-2019.md)
-* [v.June 2019 - Top 10 Open Source Projects](./src/06-2019.md)
+* [v.May 2019 - Top 10 Open Source Projects](./src/2019-05.md)
+* [v.June 2019 - Top 10 Open Source Projects](./src/2019-06.md)
+* [v.Aug 2019 - Top 10 Open Source Projects](./src/2019-08.md)
   
 <br>
 
